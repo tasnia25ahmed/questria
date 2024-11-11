@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questria</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container" id="active-background">
+        <div class="house" style="top: 15%; left: 20%;" onclick="showHouseInfo(event, '',  'resources.jpg')">RESOURCES</div>
+        <div class="house" style="top: 30%; left: 50%;" onclick="showHouseInfo(event, '','hub.jpg')">HUB</div>
+        <div class="house" style="top: 75%; left: 42%;" onclick="showHouseInfo(event, '', 'progresshouse.jpg')">PROGRESS HOUSE</div>
+        <div class="house" id="com"style="top: 10%; left: 85%;" onclick="showHouseInfo(event, 'Community', 'communityfinal.jpg')"> Community</div>
+    </div>
+
+    <button class="info-button" onclick="showDescription()">QUESTRIA</button>
+
+    <div id="popup" class="popup">
+        <span class="close" onclick="closePopup()" style="position: absolute; top: 10px; right: 10px; cursor: pointer; font-size: 24px;">&times;</span>
+        <h2 id="popup-title"></h2>
+        <p id="popup-description"></p>
+        <div class="link-container">
+            <a href="https://www.linkedin.com/in/aditi-patel-43452927a/" target="_blank" id="community-link" style="display: none;"><img src="link.jpg" alt=""></a>
+
+        
+        </div>
+    </div>
+
+    <div id="description-popup" class="popup">
+        <span class="close" onclick="closeDescription()">&times;</span>
+        <h2 id="Welcome">Welcome to Questria</h2>
+        <p style="
+           font-family: 'Quintessential';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap; font-size: x-large;
+            " id="hi">
+            We offer structured learning paths and challenges for various
+            professional roles, like Engineer , Doctor , Lawyer , Developer, Media etc.
+            This platform outlines the critical skills, tools, and
+            technologies required for growth in various fields. Also
+            offering education, practical resources, and insights from
+            the community, all aimed at helping learners advance and
+            succeed in their careers for their little village to grow !
+            Lets Jump right into it !
+        </p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
