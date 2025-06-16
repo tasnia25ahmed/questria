@@ -1,4 +1,26 @@
-
 Questria: Education Built on Community
+Questria is an all-in-one online learning platform designed to bring students, teachers, and educational resources together in a dynamic and engaging environment. Built during a hackathon, this project aims to make learning more accessible, collaborative, and effective.
 
-Questria is an all-in-one online learning platform that connects students, teachers, and educational resources in one dynamic environment. The platform offers live lessons, interactive content, personalized learning pathways, and community-driven support, all designed to make learning more accessible, engaging, and effective. Each aspect of Questria is like a “house” in the village — from educational content hubs to discussion forums, mentorship opportunities, and resources for educators, everything works together to foster growth, collaboration, and a lifelong love of learning
+Features
+🌟 Key Highlights
+Live Lessons: Real-time virtual classrooms to enhance interactive learning.
+Interactive Content: Gamified and engaging educational materials.
+Personalized Learning Pathways: Tailored courses to fit individual learning goals.
+Community Support: Discussion forums, mentorship programs, and peer-to-peer assistance.
+Resources for Educators: Tools and content hubs to support teachers and facilitators.
+Each aspect of Questria is like a "house" in the village, fostering collaboration, growth, and a lifelong love of learning.
+
+⚙️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+Design: Figma prototype
+Hackathon Project: Built under time constraints as a proof-of-concept.
+🎨 Figma Prototype
+The design and layout of Questria were meticulously crafted using Figma. This prototype serves as a blueprint for the user interface and user experience.
+
+🚀 Future Scope
+Backend Integration: Add server-side functionality for user authentication, data storage, and dynamic content updates.
+Scalability: Expand the platform to support larger communities and resources.
+Advanced Personalization: Implement AI-driven personalized learning pathways.
+Mobile Optimization: Enhance the design for seamless use on mobile devices.
+📌 Credits
+Thanks to my first hackathon teammates <3
