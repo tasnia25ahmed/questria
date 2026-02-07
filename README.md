@@ -11,6 +11,7 @@ Resources for Educators: Tools and content hubs to support teachers and facilita
 Each aspect of Questria is like a "house" in the village, fostering collaboration, growth, and a lifelong love of learning.
 
 ⚙️ Tech Stack
+
 Frontend: HTML, CSS, JavaScript
 
 Design: Figma prototype
