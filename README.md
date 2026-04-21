@@ -1,5 +1,8 @@
 <div align="center">
+  <img width="2214" height="1134" alt="image" src="https://github.com/user-attachments/assets/42a2a733-1c54-49b0-a46e-9a4322894800" />
+
   <h1>🏰 Questria: Education Built on Community</h1>
+  
   <p><b>An all-in-one learning ecosystem designed to foster collaboration, growth, and a lifelong love of learning.</b></p>
 
   <p>
