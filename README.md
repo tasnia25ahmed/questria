@@ -11,7 +11,7 @@
   <h4>
     <a href="#-key-features">Features</a>
     <span> · </span>
-    <a href="#-figma-prototype">Design</a>
+    <a href="https://www.figma.com/proto/PzghDBTL6lewAzUDYGk6qP/Questria?node-id=29-57&t=YbkUQPZYcrQGBbrp-1&starting-point-node-id=29%3A57">Design</a>
     <span> · </span>
     <a href="#-future-scope">Roadmap</a>
   </h4>
@@ -57,12 +57,12 @@ The "Town Square" of Questria—featuring discussion forums, mentorship programs
 | **Concept** | MVP / Proof-of-Concept |
 
 ---
-
+ 
 ### 🎨 Figma Prototype
-The user interface and experience were meticulously planned out to ensure the "village" feel was consistent across the platform. 
+The design and layout of Questria were meticulously crafted using [Figma](https://www.figma.com/proto/PzghDBTL6lewAzUDYGk6qP/Questria?node-id=29-57&t=YbkUQPZYcrQGBbrp-1&starting-point-node-id=29%3A57). 
 
-> [!TIP]
-> This prototype serves as our blueprint for all UI/UX decisions, focusing on accessibility and intuitive navigation for both students and educators.
+> [!IMPORTANT]
+> You can view the full interactive prototype and UI flow [here](https://www.figma.com/proto/PzghDBTL6lewAzUDYGk6qP/Questria?node-id=29-57&t=YbkUQPZYcrQGBbrp-1&starting-point-node-id=29%3A57).
 
 ---
 
