@@ -1,48 +1,85 @@
-Questria: Education Built on Community
+<div align="center">
+  <h1>🏰 Questria: Education Built on Community</h1>
+  <p><b>An all-in-one learning ecosystem designed to foster collaboration, growth, and a lifelong love of learning.</b></p>
 
-Questria is an all-in-one online learning platform designed to bring students, teachers, and educational resources together in a dynamic and engaging environment. Built during a hackathon, this project aims to make learning more accessible, collaborative, and effective.
+  <p>
+    <img src="https://img.shields.io/badge/Project-Hackathon%20MVP-gold" />
+    <img src="https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma" />
+    <img src="https://img.shields.io/badge/Frontend-Vanilla%20JS-F7DF1E?logo=javascript" />
+  </p>
 
-Features
-🌟 Key Highlights
+  <h4>
+    <a href="#-key-features">Features</a>
+    <span> · </span>
+    <a href="#-figma-prototype">Design</a>
+    <span> · </span>
+    <a href="#-future-scope">Roadmap</a>
+  </h4>
+</div>
 
+---
 
-Live Lessons: Real-time virtual classrooms to enhance interactive learning.
+### 🏠 The "Village" Philosophy
+Questria isn't just a platform; it's a digital village. Each feature acts as a "house" where students and teachers interact to make learning more accessible and effective. Built as a proof-of-concept during a high-energy hackathon, Questria focuses on the human element of education.
 
-Interactive Content: Gamified and engaging educational materials.
+---
 
-Personalized Learning Pathways: Tailored courses to fit individual learning goals.
+### 🌟 Key Features
 
-Community Support: Discussion forums, mentorship programs, and peer-to-peer assistance.
+<details>
+<summary><b>📺 Live Lessons</b></summary>
+Real-time virtual classrooms designed to break the barrier of distance and enhance interactive learning between teachers and students.
+</details>
 
-Resources for Educators: Tools and content hubs to support teachers and facilitators.
+<details>
+<summary><b>🎮 Interactive Content</b></summary>
+Gamified materials that turn traditional study into an engaging experience, keeping students motivated through interactive modules.
+</details>
 
-Each aspect of Questria is like a "house" in the village, fostering collaboration, growth, and a lifelong love of learning.
+<details>
+<summary><b>🛤 Personalized Pathways</b></summary>
+Tailored course suggestions and learning journeys that adapt to fit individual goals and student progress.
+</details>
 
-⚙️ Tech Stack
+<details>
+<summary><b>🤝 Community Support</b></summary>
+The "Town Square" of Questria—featuring discussion forums, mentorship programs, and peer-to-peer assistance hubs.
+</details>
 
-Frontend: HTML, CSS, JavaScript
+---
 
-Design: Figma prototype
+### ⚙️ Tech Stack
 
-Hackathon Project: Built under time constraints as a proof-of-concept.
-🎨 Figma Prototype
-The design and layout of Questria were meticulously crafted using [Figma](https://www.figma.com/proto/PzghDBTL6lewAzUDYGk6qP/Questria?node-id=29-57&t=YbkUQPZYcrQGBbrp-1&starting-point-node-id=29%3A57). This prototype serves as a blueprint for the user interface and user experience.
+| Layer | Technology |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
+| **Design/UI** | Figma (Prototyping & UX Research) |
+| **Concept** | MVP / Proof-of-Concept |
 
-🚀 Future Scope
+---
 
+### 🎨 Figma Prototype
+The user interface and experience were meticulously planned out to ensure the "village" feel was consistent across the platform. 
 
-Backend Integration: Add server-side functionality for user authentication, data storage, and dynamic content updates.
+> [!TIP]
+> This prototype serves as our blueprint for all UI/UX decisions, focusing on accessibility and intuitive navigation for both students and educators.
 
-Scalability: Expand the platform to support larger communities and resources.
+---
 
-Advanced Personalization: Implement AI-driven personalized learning pathways.
+### 🚀 Future Scope
 
-Mobile Optimization: Enhance the design for seamless use on mobile devices.
+- [ ] **Backend Integration:** Implementing server-side logic for user authentication (OAuth) and persistent data storage.
+- [ ] **AI-Driven Personalization:** Using machine learning to further refine individual learning pathways.
+- [ ] **Mobile Optimization:** Expanding the CSS framework for a seamless experience on tablets and smartphones.
+- [ ] **Scalability:** Transitioning to a cloud-based infrastructure to support larger global communities.
 
+---
 
+### 📌 Credits
+A massive thank you to my **first hackathon teammates**! This project wouldn't have been possible without the late-night brainstorming and collaborative coding. ❤️
 
+---
 
-📌 Credits
-
-
-Thanks to my first hackathon teammates <3
+<div align="center">
+  <sub>Built with passion for the future of education.</sub>
+</div>
